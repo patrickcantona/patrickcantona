@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrickcantona
 - 👀 I’m interested in datascience and machine learning
-- 🌱 I’m currently learning somathing about machnine learning 
+- 🌱 I’m currently learning something about machnine learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
